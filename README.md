@@ -14,8 +14,6 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
-</br>
-
 ## Find me at:
 <a href="https://www.linkedin.com/in/modestocabral/">
 <img align="left" alt="akd's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0e76a8" />
