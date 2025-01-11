@@ -1,8 +1,7 @@
 ## About me:
 
-- 👋🏻 I'm Mode, web developer since 5 years
-- 😀 For the last 3 years I have been focused on the front-end
-- 💻 I’m currently working with Angular framework and learning NodeJs
+- 👋🏻 I'm Mode, web developer focused on the front-end
+- 💻 I’m currently working with Angular framework and learning other frameworks
 
 ## Skills:
 
