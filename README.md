@@ -13,8 +13,15 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
 
+
 ## Find me at:
 <a href="https://www.linkedin.com/in/modestocabral/">
-<img align="left" alt="akd's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0e76a8" />
+<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0e76a8" />
 </a>
+<a href="https://modestocabraldev.com/">
+<img align="left" alt="Portfolio" width="100px" src="[https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0e76a8](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)" />
+</a>
+
+
+
 <br>
