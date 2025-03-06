@@ -30,8 +30,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Find me at:
+
 <a href="https://www.linkedin.com/in/modestocabral/">
-<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&color=0e76a8" />
+<img align="left" alt="LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://modestocabraldev.com/">
 <img align="left" alt="Portfolio" width="100px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
