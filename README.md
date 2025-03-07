@@ -31,6 +31,6 @@
 
 ## Find me at:
 
-[![Linkedin](https://img.shields.io/travis/user/repo/master.svg?style=flat-square)](https://www.linkedin.com/in/modestocabral/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modestocabral/)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://modestocabraldev.com)
 
