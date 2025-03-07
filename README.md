@@ -30,13 +30,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Find me at:
-<a href="https://modestocabraldev.com/">
-<img align="left" alt="Portfolio" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://modestocabraldev.com/">
-<img align="left" alt="Portfolio" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
 
+[![Linkedin](https://img.shields.io/travis/user/repo/master.svg?style=flat-square)](https://www.linkedin.com/in/modestocabral/)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://modestocabraldev.com)
 
-
-<br>
