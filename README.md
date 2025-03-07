@@ -1,5 +1,7 @@
 ## About me:
 
+_(English version | [Clic aquí para versión Español](https://github.com/McpModesto/mcpmodesto/blob/main/README-es.md))_
+
 -  I'm Mode, web developer focused on the front-end.
 -  I’m currently working with Angular framework and training in AI to be more productive.
 - I've had a passion for computers since I was a child. I remember tinkering with them all day, both hardware and software.
