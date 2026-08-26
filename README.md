@@ -16,7 +16,7 @@ I also have training in AI-assisted development, focused on improving productivi
 ## What I Focus On
 
 - Building scalable, maintainable web applications from front-end to back-end.
-- Working with Angular, TypeScript, RxJS, Ionic, Node.js, NestJS, and platform services.
+- Working with Angular, Astro, TypeScript, RxJS, Ionic, Node.js, NestJS, and platform services.
 - Improving code quality through testing, tooling, and clean project structure.
 - Learning how AI can support software development without replacing solid engineering practices.
 
@@ -30,6 +30,7 @@ I also have training in AI-assisted development, focused on improving productivi
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2e72be?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)

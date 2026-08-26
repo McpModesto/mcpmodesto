@@ -16,7 +16,7 @@ También tengo formación en desarrollo asistido por IA, enfocada en mejorar la 
 ## En qué me enfoco
 
 - Construir aplicaciones web escalables y mantenibles, desde el front-end hasta el back-end.
-- Trabajar con Angular, TypeScript, RxJS, Ionic, Node.js, NestJS y servicios de plataforma.
+- Trabajar con Angular, Astro, TypeScript, RxJS, Ionic, Node.js, NestJS y servicios de plataforma.
 - Mejorar la calidad del código con testing, tooling y una estructura clara de proyecto.
 - Aprender cómo la IA puede apoyar el desarrollo sin sustituir las buenas prácticas de ingeniería.
 
@@ -30,6 +30,7 @@ También tengo formación en desarrollo asistido por IA, enfocada en mejorar la 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2e72be?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
