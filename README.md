@@ -1,47 +1,59 @@
-### [Watch my portfolio](https://portfolio.modestocabraldev.com/en)
+# Hi, I'm Mode
 
-## About me:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.modestocabraldev.com/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modestocabral/)
 
-_(English version | [Clic aquí para versión Español](https://github.com/McpModesto/mcpmodesto/blob/main/README-es.md))_
+_English version | [Version en espanol](https://github.com/McpModesto/mcpmodesto/blob/main/README-es.md)_
 
--   I'm Mode, web developer focused on the front-end.
--   I’m currently working with Angular framework and training in AI to be more productive.
--   I've had a passion for computers since I was a child. I remember tinkering with them all day, both hardware and software.
--   My goal is to continue developing as a professional by learning and improving my skills in various technologies and architectures. I consider myself a curious and self-taught person, and I have great adaptability to any project or technology.
+## About Me
 
-## Technologies I work with or have worked with:
+I'm a web developer focused on front-end development, currently working mainly with Angular and modern TypeScript ecosystems.
 
-### Frontend:
+I've been passionate about computers since I was a child, exploring both hardware and software out of curiosity. That same mindset still drives the way I work today: learning continuously, understanding how things fit together, and adapting quickly to new projects, teams, and technologies.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-[![TypeScript](https://img.shields.io/badge/typescript-00a2ff?style=for-the-badge&logo=typescript&logoColor=white&color=2e72be)](https://img.shields.io/badge/typescript-00a2ff?style=for-the-badge&logo=typescript&logoColor=white&color=2e72be)
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
-![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+Right now, I'm also training in AI-assisted development to improve productivity, automate repetitive tasks, and build better developer workflows.
 
-### Backend/DevOps:
+## What I Focus On
 
-[![NodeJS](https://img.shields.io/badge/nodejs-00a2ff?style=for-the-badge&logo=node.js&logoColor=white&color=74c62b)](https://img.shields.io/badge/nodejs-00a2ff?style=for-the-badge&logo=node.js&logoColor=white&color=74c62b)
-![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
+- Building scalable, maintainable front-end applications.
+- Working with Angular, TypeScript, RxJS, Ionic, and component-based architectures.
+- Improving code quality through testing, tooling, and clean project structure.
+- Learning how AI can support software development without replacing solid engineering practices.
+
+## Tech Stack
+
+### Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-2e72be?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+
+### Backend, DevOps And Platforms
+
+![Node.js](https://img.shields.io/badge/Node.js-74c62b?style=for-the-badge&logo=node.js&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Testing/Version Control/Package Management:
+### Testing, Version Control And Package Management
 
-![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
-[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-## Find me at:
+## Connect
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modestocabral/)
-[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://modestocabraldev.com)
+- Portfolio: [portfolio.modestocabraldev.com/en](https://portfolio.modestocabraldev.com/en)
+- Website: [modestocabraldev.com](https://modestocabraldev.com)
+- LinkedIn: [linkedin.com/in/modestocabral](https://www.linkedin.com/in/modestocabral/)
