@@ -11,7 +11,7 @@ I'm a web developer increasingly focused on full-stack development, with a stron
 
 I've been passionate about computers since I was a child, exploring both hardware and software out of curiosity. That same mindset still drives the way I work today: learning continuously, understanding how things fit together, and adapting quickly to new projects, teams, and technologies.
 
-Right now, I'm also training in AI-assisted development to improve productivity, automate repetitive tasks, and build better developer workflows.
+I also have training in AI-assisted development, focused on improving productivity, automating repetitive tasks, and building better developer workflows.
 
 ## What I Focus On
 

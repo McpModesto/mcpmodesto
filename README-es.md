@@ -11,7 +11,7 @@ Soy desarrollador web cada vez más enfocado en fullstack, con una base sólida 
 
 Desde pequeño me apasiona la informática. Empecé trasteando con ordenadores, tanto a nivel de hardware como de software, y esa curiosidad sigue siendo parte de mi forma de trabajar: aprender de manera constante, entender cómo encajan las piezas y adaptarme rápido a nuevos proyectos, equipos y tecnologías.
 
-También me estoy formando en desarrollo asistido por IA para mejorar la productividad, automatizar tareas repetitivas y crear mejores flujos de trabajo para desarrollo.
+También tengo formación en desarrollo asistido por IA, enfocada en mejorar la productividad, automatizar tareas repetitivas y crear mejores flujos de trabajo para desarrollo.
 
 ## En qué me enfoco
 
