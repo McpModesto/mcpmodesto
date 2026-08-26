@@ -1,13 +1,13 @@
 # Hi, I'm Mode
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.modestocabraldev.com/en)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://modestocabraldev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modestocabral/)
 
 _English version | [Versión en español](https://github.com/McpModesto/mcpmodesto/blob/main/README-es.md)_
 
 ## About Me
 
-I'm a web developer focused on front-end development, currently working mainly with Angular and modern TypeScript ecosystems.
+I'm a web developer increasingly focused on full-stack development, with a strong front-end background and hands-on experience across modern TypeScript ecosystems.
 
 I've been passionate about computers since I was a child, exploring both hardware and software out of curiosity. That same mindset still drives the way I work today: learning continuously, understanding how things fit together, and adapting quickly to new projects, teams, and technologies.
 
@@ -15,8 +15,8 @@ Right now, I'm also training in AI-assisted development to improve productivity,
 
 ## What I Focus On
 
-- Building scalable, maintainable front-end applications.
-- Working with Angular, TypeScript, RxJS, Ionic, and component-based architectures.
+- Building scalable, maintainable web applications from front-end to back-end.
+- Working with Angular, TypeScript, RxJS, Ionic, Node.js, Symfony, and platform services.
 - Improving code quality through testing, tooling, and clean project structure.
 - Learning how AI can support software development without replacing solid engineering practices.
 
@@ -54,6 +54,5 @@ Right now, I'm also training in AI-assisted development to improve productivity,
 
 ## Connect
 
-- Portfolio: [portfolio.modestocabraldev.com/en](https://portfolio.modestocabraldev.com/en)
 - Website: [modestocabraldev.com](https://modestocabraldev.com)
 - LinkedIn: [linkedin.com/in/modestocabral](https://www.linkedin.com/in/modestocabral/)
