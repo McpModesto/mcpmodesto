@@ -3,24 +3,24 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.modestocabraldev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modestocabral/)
 
-_Version en espanol | [English version](https://github.com/McpModesto/mcpmodesto/blob/main/README.md)_
+_Versión en español | [English version](https://github.com/McpModesto/mcpmodesto/blob/main/README.md)_
 
-## Sobre Mi
+## Sobre mí
 
 Soy desarrollador web enfocado en front-end. Actualmente trabajo principalmente con Angular y ecosistemas modernos basados en TypeScript.
 
-Desde pequeno me apasiona la informatica. Empece trasteando con ordenadores, tanto a nivel de hardware como de software, y esa curiosidad sigue siendo parte de mi forma de trabajar: aprender de manera constante, entender como encajan las piezas y adaptarme rapido a nuevos proyectos, equipos y tecnologias.
+Desde pequeño me apasiona la informática. Empecé trasteando con ordenadores, tanto a nivel de hardware como de software, y esa curiosidad sigue siendo parte de mi forma de trabajar: aprender de manera constante, entender cómo encajan las piezas y adaptarme rápido a nuevos proyectos, equipos y tecnologías.
 
-Tambien me estoy formando en desarrollo asistido por IA para mejorar la productividad, automatizar tareas repetitivas y crear mejores flujos de trabajo para desarrollo.
+También me estoy formando en desarrollo asistido por IA para mejorar la productividad, automatizar tareas repetitivas y crear mejores flujos de trabajo para desarrollo.
 
-## En Que Me Enfoco
+## En qué me enfoco
 
 - Construir aplicaciones front-end escalables y mantenibles.
 - Trabajar con Angular, TypeScript, RxJS, Ionic y arquitecturas basadas en componentes.
-- Mejorar la calidad del codigo con testing, tooling y una estructura clara de proyecto.
-- Aprender como la IA puede apoyar el desarrollo sin sustituir las buenas practicas de ingenieria.
+- Mejorar la calidad del código con testing, tooling y una estructura clara de proyecto.
+- Aprender cómo la IA puede apoyar el desarrollo sin sustituir las buenas prácticas de ingeniería.
 
-## Stack Tecnico
+## Stack técnico
 
 ### Frontend
 
@@ -34,7 +34,7 @@ Tambien me estoy formando en desarrollo asistido por IA para mejorar la producti
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 
-### Backend, DevOps Y Plataformas
+### Backend, DevOps y plataformas
 
 ![Node.js](https://img.shields.io/badge/Node.js-74c62b?style=for-the-badge&logo=node.js&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
@@ -44,7 +44,7 @@ Tambien me estoy formando en desarrollo asistido por IA para mejorar la producti
 ![Jenkins](https://img.shields.io/badge/Jenkins-2C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### Testing, Control De Versiones Y Gestion De Paquetes
+### Testing, control de versiones y gestión de paquetes
 
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)

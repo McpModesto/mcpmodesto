@@ -3,7 +3,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio.modestocabraldev.com/en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/modestocabral/)
 
-_English version | [Version en espanol](https://github.com/McpModesto/mcpmodesto/blob/main/README-es.md)_
+_English version | [Versión en español](https://github.com/McpModesto/mcpmodesto/blob/main/README-es.md)_
 
 ## About Me
 
